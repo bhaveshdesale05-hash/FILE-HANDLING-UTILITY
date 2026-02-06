@@ -24,4 +24,8 @@ Overall, the Day 1 task provided a strong foundation in Java file handling and p
 
 *OUTPUT*
 
-<img width="1151" height="728" alt="Image" src="https://github.com/user-attachments/assets/c59ae419-b154-4808-af04-52e4425827f9" />
+<img width="1151" height="728" alt="Image" src="https://github.com/user-attachments/assets/c59ae419-b154-4808-af04-52e4425827f9" /> 
+
+<img width="1151" height="704" alt="Image" src="https://github.com/user-attachments/assets/c0fe1cbe-9cd7-4beb-8f8e-15c130322a99" />
+
+<img width="1135" height="660" alt="Image" src="https://github.com/user-attachments/assets/9d95f60d-b4c6-4139-9cc9-859491b02900" />
